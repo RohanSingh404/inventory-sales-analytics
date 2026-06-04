@@ -63,7 +63,7 @@ transactional data to:
 ## 📈 Python Visualizations
 
 ### 1. Feature Distributions
-![Feature Distributions](reports/visualizations/distributions.png)
+![Feature Distributions](report/visualizations/distributions.png)
 
 > Histograms across all 16 features reveal right-skewed distributions,
 > premium price outliers, and zero-sales products indicating slow-moving stock.
@@ -71,7 +71,7 @@ transactional data to:
 ---
 
 ### 2. Correlation Heatmap
-![Correlation Heatmap](reports/visualizations/correlation_heatmap.png)
+![Correlation Heatmap](report/visualizations/correlation_heatmap.png)
 
 > Strong correlation (0.999) between Total Purchased Quantity and Total
 > Sales Quantity confirms efficient inventory turnover. Profit Margin shows
@@ -80,7 +80,7 @@ transactional data to:
 ---
 
 ### 3. Brands — Low Sales vs High Profit Margin
-![Brands Scatter](reports/visualizations/brands_scatter.png)
+![Brands Scatter](report/visualizations/brands_scatter.png)
 
 > 198 target brands (red) identified with sales below threshold but margins
 > above 65% — strong candidates for targeted promotions and pricing optimization.
@@ -88,7 +88,7 @@ transactional data to:
 ---
 
 ### 4. Top 10 Vendor Purchase Contribution
-![Vendor Contribution](reports/visualizations/vendor_contribution.png)
+![Vendor Contribution](report/visualizations/vendor_contribution.png)
 
 > Diageo North America leads at 16.3%. Top 10 vendors collectively control
 > 65.69% of total purchases, creating significant supply chain concentration risk.
@@ -96,7 +96,7 @@ transactional data to:
 ---
 
 ### 5. Profit Margin — Top vs Low Vendors (Hypothesis Test)
-![Profit Margin CI](reports/visualizations/profit_margin_ci.png)
+![Profit Margin CI](report/visualizations/profit_margin_ci.png)
 
 > Hypothesis test result: **null hypothesis rejected**. Top vendors mean
 > margin = 31.17% (CI: 30.74–31.61%) vs low vendors mean = 41.55%
