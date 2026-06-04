@@ -52,7 +52,7 @@ transactional data to:
 
 ## 📊 Power BI Dashboard
 
-![Vendor Performance Dashboard](powerbi/screenshots/Dashboard.png)
+![Vendor Performance Dashboard](PowerBi/screenshots/Dashboard.png)
 
 > Dashboard shows KPI cards for Total Sales, Purchases, Gross Profit,
 > Profit Margin, and Unsold Capital — with vendor contribution breakdown,
