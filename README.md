@@ -155,5 +155,5 @@ jupyter notebook notebooks/your_notebook.ipynb
 - **Coach low-performing vendors** on distribution and marketing to
   convert their high margins into actual sales volume
 ## Analysis by
-Name : Rohan Singh
-Institute : Indian Institute of Technology ( Indian School of Mines ) Dhanbad
+- **Name** : Rohan Singh
+- **Institute** : Indian Institute of Technology ( Indian School of Mines ) Dhanbad
